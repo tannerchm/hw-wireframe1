@@ -1,4 +1,6 @@
 
+
+
 // TYPED.JS
   jQuery(document).ready(function(){
 	jQuery('.skillbar').each(function(){
